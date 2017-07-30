@@ -1,6 +1,7 @@
 # Getting-Started-With-Animate.css
 animate.css - A cross-browser library of CSS animations. As easy to use as an easy thing.
 <p> No need to use jquery to make an animation </p>
+how to implement Animate.css which is a very easy way to add some animation to your websites and UIs. It is as simple as applying a class. how to trigger animations using JS and jQuery.
 
 ## screenshot
 
